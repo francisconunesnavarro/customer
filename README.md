@@ -10,7 +10,7 @@ Maven
 
 ### Running
 
-`mvn spring-boot:run`\
+`mvn spring-boot:run`
 
 Available APIs are:\
 http://localhost:8080/customers -> Retrieve all customers\
@@ -19,7 +19,7 @@ http://localhost:8080/countries -> Retrieve all countries\
 http://localhost:8080/countries/search?countryCode=212 -> Search information from Morroco
 
 ## Running unit tests
-`mvn test`\
+`mvn test`
 
 #### Author
 [Francisco Nunes Navarro](https://www.linkedin.com/in/francisconunesnavarro)
